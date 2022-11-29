@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-auth-ap-f8869": {
+      "hosting": {
+        "angular-firebase-github-authentication": [
+          "angular-firebase-auth-ap-f8869"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-auth-ap-f8869"
+  }
+}
