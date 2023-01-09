@@ -97,8 +97,21 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "authentication-app-angular:build:production",
+            "firebaseProject": "authentication-app-angular",
+            "firebaseHostingSite": "authentication-app-angular"
+          }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "d85466be-f770-4705-b52d-bd45bc54d95a"
   }
 }

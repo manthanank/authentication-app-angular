@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "authentication-app-angular": {
+      "hosting": {
+        "authentication-app-angular": [
+          "authentication-app-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "authentication-app-angular"
+  }
+}
