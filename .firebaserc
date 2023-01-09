@@ -9,6 +9,6 @@
     }
   },
   "projects": {
-    "default": "authentication-app-angular"
+    "default": "angular-firebase-auth-ap-f8869"
   }
 }
